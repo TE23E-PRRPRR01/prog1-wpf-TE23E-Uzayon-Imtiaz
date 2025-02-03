@@ -1,0 +1,16 @@
+25-02-03 13:52 Session started
+----------------------------------------
+13:59:15 Document switched to: c:\Users\uzayon.imtiaz\AppData\Roaming\Code\User\settings.json
+----------------------------------------
+13:59:53 Document switched to: c:\Users\uzayon.imtiaz\AppData\Roaming\Code\User\settings.json
+----------------------------------------
+14:01:05 013:033 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
