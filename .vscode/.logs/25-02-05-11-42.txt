@@ -1,0 +1,12 @@
+11:42:55 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml
+----------------------------------------
+25-02-05 11:42 Session started
+----------------------------------------
+11:42:56 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Intro\MainWindow.xaml
+----------------------------------------
+11:42:58 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml
+----------------------------------------
+11:43:02 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml
+----------------------------------------
+11:43:44 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Intro\MainWindow.xaml
+----------------------------------------
