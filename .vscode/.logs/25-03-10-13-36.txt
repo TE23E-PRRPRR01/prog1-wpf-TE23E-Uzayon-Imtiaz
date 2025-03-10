@@ -1,0 +1,4 @@
+25-03-10 13:36 Session started
+----------------------------------------
+13:37:10 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Intro\MainWindow.xaml
+----------------------------------------
