@@ -1,0 +1,27 @@
+25-03-14 23:05 Session started
+----------------------------------------
+23:20:18 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+23:20:51 007:015 > T
+23:20:52 007:016 > Tr
+23:21:05 007:017 > Trä
+23:21:06 007:018 > Trän
+23:21:06 007:019 > Tränn
+23:21:06 007:020 > Tränni
+23:21:06 007:021 > Trännin
+23:21:06 007:022 > Tränning
+23:21:13 007:015 > Provuppgifter
+23:21:17 000:031 > Provuppgifter
+23:21:25 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\App.xaml.cs
+----------------------------------------
+23:21:27 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:22:07 007:055 >  b
+23:22:07 007:056 >  ba
+23:22:07 007:057 >  bac
+23:22:07 007:055 > Background=""
+23:22:13 007:067 > 2
+23:22:58 007:067 > 255, 203, 173
+23:23:49 007:074 > 0
+23:23:51 007:079 > 00

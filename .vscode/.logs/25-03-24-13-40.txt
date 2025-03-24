@@ -1,0 +1,14 @@
+25-03-24 13:40 Session started
+----------------------------------------
+13:40:53 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+13:40:58 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+13:41:00 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+13:41:00 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+13:41:04 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+13:41:47 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------

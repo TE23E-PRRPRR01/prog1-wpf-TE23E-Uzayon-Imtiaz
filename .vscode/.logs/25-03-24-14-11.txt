@@ -1,0 +1,42 @@
+25-03-24 14:11 Session started
+----------------------------------------
+14:11:49 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:11:53 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:11:59 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:01 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:03 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:04 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:06 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:07 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:08 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:09 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:10 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:12 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:13 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:17 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:20 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+14:12:35 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:38 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:47 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+14:12:47 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\EventApp\MainWindow.xaml.cs
+----------------------------------------
+14:12:48 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------

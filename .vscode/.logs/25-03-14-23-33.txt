@@ -1,0 +1,543 @@
+25-03-14 23:33 Session started
+----------------------------------------
+23:33:44 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:33:48 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:33:54 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\SlumpaApp\MainWindow.xaml
+----------------------------------------
+23:34:16 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:34:24 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:34:27 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:34:28 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:34:38 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:34:39 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:34:40 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:34:41 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:34:42 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:34:45 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:34:46 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:35:00 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:35:05 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:35:12 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+23:35:21 008:004 > s
+23:35:21 008:005 > st
+23:35:21 008:006 > sta
+23:35:22 008:004 > <StackPanel></StackPanel>
+23:35:26 008:004 > sta
+23:35:27 008:007 > c
+23:35:28 008:004 > <StackPanel></StackPanel>
+23:35:34 012:023 > </StackPanel>
+23:35:58 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:35:59 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:36:04 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:36:06 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:36:06 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:36:07 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:36:16 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:36:19 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:36:29 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:36:34 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+23:37:36 009:015 > f
+23:37:36 009:016 > fo
+23:37:36 009:017 > fon
+23:37:37 009:018 > font
+23:37:40 009:015 > FontSize=""
+23:37:48 009:025 > 3
+23:37:48 009:026 > 38
+23:38:07 009:029 > 38 f
+23:38:07 009:030 > 38 fo
+23:38:07 009:031 > 38 fon
+23:38:08 009:032 > 38 font
+23:38:12 009:029 > FontStyle
+23:38:15 009:029 > f
+23:38:15 009:030 > fo
+23:38:15 009:031 > fon
+23:38:15 009:032 > font
+23:38:17 009:029 > FontStyle
+23:38:19 009:029 > f
+23:38:19 009:030 > fo
+23:38:20 009:031 > fon
+23:38:21 009:029 > FontStyle=""
+23:38:24 009:040 > B
+23:38:25 009:041 > Bo
+23:38:25 009:042 > Bol
+23:38:25 009:043 > Bold
+23:39:16 009:029 > Bold F
+23:39:16 009:030 > Bold Fo
+23:39:16 009:031 > Bold Fon
+23:39:17 009:032 > Bold Font
+23:39:21 009:029 > FontStyle=""
+23:39:23 009:040 > b
+23:39:23 009:041 > bo
+23:39:23 009:042 > bol
+23:39:24 009:043 > bold
+23:39:26 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:39:31 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:39:37 009:029 > boldf
+23:39:37 009:030 > boldfo
+23:39:37 009:031 > boldfon
+23:39:38 009:032 > boldfont
+23:39:40 009:029 > FontWeight=""
+23:39:40 009:041 > B
+23:39:41 009:042 > Bo
+23:39:41 009:043 > Bol
+23:39:41 009:044 > Bold
+
+23:40:00 007:055 > s
+23:40:00 007:056 > si
+23:40:00 007:057 > siz
+23:40:00 007:058 > size
+23:40:02 007:055 > SizeToContent=""
+23:40:06 007:070 > H
+23:40:08 007:071 > He
+23:40:08 007:072 > Hei
+23:40:08 007:073 > Heig
+23:40:08 007:074 > Heigh
+23:40:08 007:075 > Height
+23:40:09 007:076 > HeightA
+23:40:10 007:077 > HeightAn
+23:40:10 007:078 > HeightAnd
+23:40:11 007:079 > HeightAndW
+23:40:11 007:080 > HeightAndWe
+23:40:12 007:081 > HeightAndWei
+23:40:14 007:080 > HeightAndWeii
+23:40:15 007:081 > HeightAndWeiid
+23:40:16 007:082 > HeightAndWeiidt
+23:40:16 007:083 > HeightAndWeiidth
+23:41:04 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:41:08 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:41:12 007:075 > HeightAndWeiidthA
+23:41:12 007:076 > HeightAndWeiidthAn
+23:41:12 007:077 > HeightAndWeiidthAnd
+23:41:13 007:078 > HeightAndWeiidthAnd G
+23:41:13 007:079 > HeightAndWeiidthAnd GH
+23:41:14 007:080 > HeightAndWeiidthAnd GHH
+23:41:14 007:081 > HeightAndWeiidthAnd GHHe
+23:41:14 007:082 > HeightAndWeiidthAnd GHHei
+23:41:14 007:083 > HeightAndWeiidthAnd GHHeig
+23:41:14 007:084 > HeightAndWeiidthAnd GHHeigh
+23:41:14 007:085 > HeightAndWeiidthAnd GHHeight
+
+23:41:43 010:008 > l
+23:41:43 010:009 > la
+23:41:43 010:010 > lab
+23:41:44 010:008 > <Label></Label>
+23:41:58 010:015 > 1
+23:41:58 010:016 > 19
+23:42:01 010:014 > 19f
+23:42:01 010:015 > 19fo
+23:42:01 010:016 > 19fon
+23:42:02 010:017 > 19font
+23:42:02 010:000 > <Labelfont></Labelfont>
+23:42:03 010:000 > <Labelf></Labelf>
+23:42:03 010:000 > <Label></Label>
+23:42:04 010:015 >  f
+23:42:04 010:016 >  fo
+23:42:04 010:017 >  fon
+23:42:04 010:018 >  font
+23:42:19 010:015 > FontSize=""
+23:42:21 010:025 > 1
+23:42:21 010:026 > 19
+23:42:22 010:029 > 19n
+23:42:31 010:030 > 19n  V
+23:42:31 010:031 > 19n  Vi
+23:42:31 010:032 > 19n  Vik
+23:42:31 010:033 > 19n  Vikt
+23:42:33 010:035 > 19n  Vikt )
+23:42:33 010:036 > 19n  Vikt )g
+23:42:33 010:037 > 19n  Vikt )gr
+23:42:33 010:038 > 19n  Vikt )gra
+23:42:33 010:039 > 19n  Vikt )gra,
+23:42:35 010:035 > 19n  Vikt )gra,)
+23:42:37 010:035 > 19n  Vikt )gra,))
+23:42:38 010:035 > 19n  Vikt )gra,)))
+23:42:40 010:035 > 19n  Vikt )gra,)))=
+23:42:42 010:035 > 19n  Vikt )gra,)))=(
+23:42:43 010:036 > 19n  Vikt )gra,)))=(g
+23:42:43 010:037 > 19n  Vikt )gra,)))=(gr
+23:42:44 010:038 > 19n  Vikt )gra,)))=(gra
+23:42:44 010:039 > 19n  Vikt )gra,)))=(gram
+23:42:45 010:040 > 19n  Vikt )gra,)))=(gram=
+23:42:46 010:040 > 19n  Vikt )gra,)))=(gram=)
+23:43:00 010:040 > 19n  Vikt )gra,)))=(gram=)Ö
+23:43:01 010:040 > 19n  Vikt )gra,)))=(gram=)Ö:
+23:43:20 010:029 > 19n  Vikt )gra,)))=(gram=)Ö: f
+23:43:20 010:030 > 19n  Vikt )gra,)))=(gram=)Ö: fo
+23:43:20 010:031 > 19n  Vikt )gra,)))=(gram=)Ö: fon
+23:43:20 010:032 > 19n  Vikt )gra,)))=(gram=)Ö: font
+23:43:22 010:029 > FontWeight=""
+23:43:23 010:041 > B
+23:43:24 010:042 > Bo
+23:43:24 010:043 > Bol
+23:43:24 010:044 > Bold
+23:43:37 010:025 > Bold2
+23:43:37 010:026 > Bold22
+
+23:44:08 011:008 > t
+23:44:08 011:009 > te
+23:44:09 011:010 > tex
+23:44:09 011:011 > text
+23:44:09 011:012 > textb
+23:44:09 011:013 > textbo
+23:44:10 011:014 > textbox
+23:44:10 011:008 > <TextBox></TextBox>
+23:44:21 010:067 > ''
+23:44:23 011:008 > t
+23:44:23 011:009 > te
+23:44:23 011:010 > tex
+23:44:24 011:011 > text
+23:44:25 011:008 > <TextBox></TextBox>
+23:44:35 011:017 >  h
+23:44:35 011:018 >  he
+23:44:36 011:019 >  hei
+23:44:36 011:020 >  heig
+23:44:36 011:021 >  heigh
+23:44:49 011:017 >  heigh m
+23:44:49 011:018 >  heigh ma
+23:44:50 011:019 >  heigh mar
+23:44:50 011:020 >  heigh marg
+23:44:50 011:021 >  heigh margi
+23:44:51 011:022 >  heigh margin
+23:44:51 011:017 > Margin=""
+23:44:52 011:025 > 1
+23:44:52 011:026 > 10
+23:45:19 011:025 > 102
+
+23:45:46 009:047 > m
+23:45:46 009:048 > ma
+23:45:46 009:049 > mar
+23:45:46 009:050 > marg
+23:45:47 009:047 > Margin=""
+23:45:48 009:055 > 5
+
+23:45:50 010:047 > m
+23:45:50 010:048 > ma
+23:45:50 010:049 > mar
+23:45:51 010:050 > marg
+23:45:51 010:051 > margi
+23:45:51 010:052 > margin
+23:45:54 010:047 > Margin=""
+23:45:55 010:055 > 5
+
+23:45:57 011:025 > 5
+23:46:20 011:028 > 5 p
+23:46:21 011:029 > 5 pa
+23:46:21 011:030 > 5 pad
+23:46:21 011:031 > 5 padd
+23:46:21 011:028 > Padding=""
+23:46:22 011:037 > 1
+23:46:23 011:038 > 10
+23:46:28 011:025 > 101
+23:46:28 011:026 > 1010
+
+23:47:21 012:016 > B
+23:47:21 012:017 > Be
+23:47:22 012:018 > Ber
+23:47:22 012:019 > Berä
+23:47:23 012:020 > Beräk
+23:47:24 012:021 > Beräkn
+23:47:24 012:022 > Beräkna
+23:47:25 012:024 > Beräkna P
+23:47:25 012:025 > Beräkna Ph
+23:47:25 012:026 > Beräkna Pho
+23:47:26 012:027 > Beräkna Phot
+23:47:26 012:028 > Beräkna Photo
+23:47:32 012:024 > Beräkna Photop
+23:47:32 012:025 > Beräkna Photopo
+23:47:32 012:026 > Beräkna Photopor
+23:47:33 012:027 > Beräkna Photoport
+23:47:33 012:028 > Beräkna Photoporto
+23:47:43 012:015 > Beräkna Photoportom
+23:47:44 012:016 > Beräkna Photoportoma
+23:47:44 012:017 > Beräkna Photoportomar
+23:47:44 012:000 > <Buttonmar>Beräkna porto</Buttonmar>
+23:47:45 012:000 > <Buttonm>Beräkna porto</Buttonm>
+23:47:45 012:016 >  m
+23:47:45 012:017 >  ma
+23:47:45 012:018 >  mar
+23:47:46 012:016 > Margin=""
+23:47:46 012:000 > <Button Margin="">Beräkna porto</Button>
+23:47:49 012:024 > 5
+23:48:02 012:024 > 51
+23:48:02 012:025 > 510
+23:48:15 012:028 > 510 p
+23:48:15 012:029 > 510 pa
+23:48:15 012:030 > 510 pad
+23:48:16 012:031 > 510 padd
+23:48:16 012:028 > Padding=""
+23:48:17 012:037 > 1
+23:48:17 012:038 > 10
+
+23:48:22 011:038 > 4
+23:48:47 011:038 > 42
+
+23:48:51 012:037 > 0
+
+23:49:07 011:038 > 5
+
+23:49:20 012:037 > 5
+
+23:54:28 008:016 > m
+23:54:28 008:017 > ma
+23:54:28 008:018 > mar
+23:54:29 008:019 > marg
+23:54:29 008:020 > margi
+23:54:29 008:021 > margin
+23:54:30 008:016 > Margin=""
+23:54:31 008:024 > 3
+23:54:31 008:025 > 30
+23:54:41 008:024 > 301
+23:54:41 008:025 > 3010
+
+23:55:30 012:016 > n
+23:55:30 012:017 > na
+23:55:30 012:018 > nam
+23:55:31 012:016 > Name
+23:55:32 012:016 > namMargin
+23:55:35 012:016 >  n
+23:55:35 012:017 >  na
+23:55:35 012:018 >  nam
+23:55:35 012:019 >  name
+23:55:35 012:016 > Name=""
+23:55:37 012:022 > R
+23:55:38 012:023 > Rä
+23:55:39 012:024 > Räk
+23:55:39 012:025 > Räkn
+23:55:39 012:026 > Räkna
+23:55:41 012:027 > RäknaP
+23:55:42 012:028 > RäknaPo
+23:55:42 012:029 > RäknaPor
+23:55:43 012:030 > RäknaPort
+23:55:43 012:031 > RäknaPorto
+23:55:48 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:55:55 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:56:41 012:022 > RäknaPorto b
+23:56:41 012:023 > RäknaPorto be
+23:56:41 012:024 > RäknaPorto beR
+23:56:45 012:022 > RäknaPorto beRB
+23:56:47 012:024 > RäknaPorto beRBr
+23:56:54 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:56:56 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:56:57 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:57:06 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:57:23 012:016 > RäknaPorto beRBrC
+23:57:23 012:017 > RäknaPorto beRBrCl
+23:57:23 012:018 > RäknaPorto beRBrCli
+23:57:23 012:019 > RäknaPorto beRBrClic
+23:57:23 012:020 > RäknaPorto beRBrClick
+23:57:26 012:016 > Click
+23:57:32 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:57:39 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:57:56 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:58:15 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+23:58:26 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+23:58:31 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+23:58:35 011:017 > t
+23:58:36 011:018 > tb
+23:58:36 011:019 > tbx
+23:58:42 011:017 > tbxn
+23:58:42 011:018 > tbxna
+23:58:43 011:019 > tbxnam
+23:58:43 011:020 > tbxname
+23:58:43 011:017 > Name=""
+23:58:44 011:023 > t
+23:58:45 011:024 > tx
+23:58:45 011:025 > txb
+23:58:55 011:026 > txbV
+23:58:55 011:027 > txbVi
+23:58:56 011:028 > txbVik
+23:58:56 011:029 > txbVikt
+23:58:57 011:030 > txbViktG
+23:58:57 011:031 > txbViktGr
+23:58:57 011:032 > txbViktGra
+23:58:57 011:033 > txbViktGram
+00:04:51 011:017 > txbViktGram h
+00:04:51 011:018 > txbViktGram he
+00:04:52 011:019 > txbViktGram hei
+00:04:52 011:017 > Height=""
+00:04:53 011:025 > 1
+00:04:53 011:026 > 10
+00:04:53 011:027 > 100
+00:05:08 011:026 > 1005
+00:05:09 011:025 > 10055
+00:05:17 011:025 > 100551
+00:05:19 011:026 > 1005510
+00:05:28 011:025 > 10055104
+00:05:28 011:026 > 100551040
+00:08:56 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:09:11 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:09:14 014:009 > Click="KlickOk"
+00:09:20 012:016 > Click="KlickOk"
+
+00:09:22 012:017 > m
+00:09:24 012:016 > Click="KlickOk"
+00:09:30 012:023 > B
+00:09:30 012:024 > Be
+00:09:31 012:025 > Ber
+00:09:32 012:026 > Berä
+00:09:32 012:027 > Beräk
+00:09:33 012:028 > Beräkn
+00:09:33 012:029 > Beräkna
+00:09:35 012:030 > Beräknap
+00:09:35 012:031 > Beräknapo
+00:09:35 012:032 > Beräknapor
+00:09:36 012:033 > Beräknaport
+00:09:36 012:034 > Beräknaporto
+00:09:48 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+
+00:10:35 023:000 > e
+00:10:35 023:001 > ev
+00:10:37 023:000 > private void (object sender, RoutedEventArgs e)
+{
+    
+}
+00:10:39 023:000 > ev
+00:10:41 023:000 > e
+00:10:41 023:001 > ev
+00:10:44 023:000 > private void (object sender, RoutedEventArgs e)
+{
+    
+}
+00:10:46 023:000 > ev
+00:10:48 023:001 > v
+00:10:50 023:000 > private void (object sender, RoutedEventArgs e)
+{
+    
+}
+00:11:16 025:004 > MessageBox.Show("Du klickade på OK");
+
+00:11:21 025:036 > B
+00:11:21 025:037 > Be
+00:11:22 025:038 > Ber
+00:11:23 025:039 > Berö
+00:11:24 025:039 > Beröä
+00:11:24 025:040 > Beröäk
+00:11:24 025:041 > Beröäkn
+00:11:24 025:042 > Beröäkna
+00:11:26 025:044 > Beröäkna p
+00:11:26 025:045 > Beröäkna po
+00:11:26 025:046 > Beröäkna por
+00:11:27 025:047 > Beröäkna port
+00:11:27 025:048 > Beröäkna porto
+00:11:28 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:11:30 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:11:31 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+00:11:32 012:031 > o
+00:11:36 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+
+00:11:51 023:013 > B
+00:11:51 023:014 > Be
+00:11:52 023:013 > Beräkna
+00:11:53 023:020 > p
+00:11:53 023:021 > po
+00:11:54 023:022 > por
+00:11:55 023:023 > port
+00:11:55 023:024 > porto
+00:12:00 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:12:04 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:12:05 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+00:12:10 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:12:30 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+00:12:31 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:12:33 023:025 > Beräknaporto
+00:12:36 023:013 > Beräknaporto
+00:12:39 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+
+00:13:09 012:023 > a
+00:13:09 012:024 > as
+00:13:09 012:025 > asd
+00:13:14 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+
+00:13:16 023:013 > a
+00:13:16 023:014 > as
+00:13:16 023:015 > asd
+00:13:22 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:13:32 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:13:34 023:013 > Beräknaporto
+00:13:35 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:13:36 012:023 > Beräknaporto
+00:13:37 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:13:38 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:14:00 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+00:14:09 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:14:09 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+00:14:09 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:14:09 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\MainWindow.xaml
+----------------------------------------
+00:14:15 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml
+----------------------------------------
+00:14:17 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
+00:14:20 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Brännbollsräknaren\Brännbollsräknaren.csproj
+----------------------------------------
+00:14:23 Document switched to: c:\Users\uzayon.imtiaz\github-classroom\prog1-wpf-TE23E-Uzayon-Imtiaz\Provuppgifter\MainWindow.xaml.cs
+----------------------------------------
